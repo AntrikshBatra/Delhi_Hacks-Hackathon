@@ -15,9 +15,9 @@ As we know that internet is on boom and everyone want to purchase things sitting
 - Consumer will get all **hotline numbers** of housekeeping facilities in their area
 - Supports the environment of real estate investing through **equities or bonds**.
 
-Contributors:
-Aayush Garg, 
-Abhijay Jain, 
-Aayushi Rai, 
-Anmol Sharma, 
-Antriksh Batra, 
+# Contributors:
+- Aayush Garg, 
+- Abhijay Jain, 
+- Aayushi Rai, 
+- Anmol Sharma, 
+- Antriksh Batra, 
